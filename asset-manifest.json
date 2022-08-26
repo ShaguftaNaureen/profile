@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.77b4c7df.css",
+    "main.js": "/profile/static/js/main.76c12bc8.js",
+    "static/media/dp.png": "/profile/static/media/dp.e16b5171415723d69a4e.png",
+    "static/media/SHAGUFTA NAUREEN Z.pdf": "/profile/static/media/SHAGUFTA NAUREEN Z.5526cd7ee5d7abe8b965.pdf",
+    "static/media/nobg.png": "/profile/static/media/nobg.ed43a42a0abe00ce5b8d.png",
+    "static/media/memory4.png": "/profile/static/media/memory4.34f4584130fb697fe4e4.png",
+    "static/media/memory1.png": "/profile/static/media/memory1.08a33877c2776b5beb9c.png",
+    "static/media/memory3.png": "/profile/static/media/memory3.1307949af9baf2fe63db.png",
+    "static/media/game.jpg": "/profile/static/media/game.ddb3314c972def0b0361.jpg",
+    "static/media/robo.png": "/profile/static/media/robo.1d1e728187fe8dba713f.png",
+    "static/media/memory2.png": "/profile/static/media/memory2.ba3b25cd8a95bc84ca52.png",
+    "static/media/comingsoon.png": "/profile/static/media/comingsoon.7a6cb5ae28e7c988585d.png",
+    "static/media/crypto.png": "/profile/static/media/crypto.9fd05bfe6198cc6521cd.png",
+    "index.html": "/profile/index.html",
+    "main.77b4c7df.css.map": "/profile/static/css/main.77b4c7df.css.map",
+    "main.76c12bc8.js.map": "/profile/static/js/main.76c12bc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77b4c7df.css",
+    "static/js/main.76c12bc8.js"
+  ]
+}
